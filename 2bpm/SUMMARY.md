@@ -6,6 +6,16 @@
 
 * [Manual de Conduta](introducao/quickstart.md)
 * [Recrutamento](introducao/publish-your-docs.md)
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: regras-2bpm-api
+  ```
 
 ***
 
@@ -23,7 +33,6 @@
 * [Hierarquia](geral/interactive-blocks.md)
 * [Promoções](geral/openapi.md)
 * [Viaturas](geral/integrations.md)
-* [Armamento](geral/armamento.md)
 
 ## REGRAS E ARTIGOS
 
