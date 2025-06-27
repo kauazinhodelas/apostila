@@ -23,7 +23,7 @@ _**Viatura Liberada Apenas para GTM**_
 
 _**Viatura Liberada Apenas para G.R.A.E.R. - C.H.O.Q.U.E**_
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/helistrotero.png" alt=""><figcaption></figcaption></figure>
 
 ### 📝 **Observações Importantes**
 
