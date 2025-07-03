@@ -5,9 +5,11 @@ icon: taxi
 
 # Viaturas
 
-**Viatura Liberada apenas para Speed**&#x20;
+**Viatura Liberada apenas para GTM**\
+\
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 _**Viaturas Liberada para toda a Guarniçao**_
 

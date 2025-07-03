@@ -2,20 +2,6 @@
 icon: hand-wave
 cover: .gitbook/assets/2_btl.png
 coverY: 139.06162591628086
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Bem vindo
