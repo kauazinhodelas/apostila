@@ -9,23 +9,19 @@ icon: taxi
 \
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**Viaturas Liberada para toda a Guarniçao**_
 
-<figure><img src="../.gitbook/assets/viaturas_lado_a_lado.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-_**Viatura Liberada Apenas para C.H.O.Q.U.E**_
+_**Viatura Liberada Apenas para S.P.E.E.D**_
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-_**Viatura Liberada Apenas para GTM**_
-
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**Viatura Liberada Apenas para G.R.A.E.R. - C.H.O.Q.U.E**_
 
-<figure><img src="../.gitbook/assets/helistrotero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 📝 **Observações Importantes**
 
