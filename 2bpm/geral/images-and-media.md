@@ -16,4 +16,4 @@ icon: light-emergency-on
 | Código 5   | Confronto armado, risco para a polícia e a população       |
 | Código 6   | Área sob investigação, verificação da área                 |
 
-<figure><img src="../.gitbook/assets/2_btl.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp" alt="" width="354"><figcaption></figcaption></figure>

@@ -31,4 +31,4 @@ A **progressão hierárquica** é baseada em critérios técnicos, operacionais 
 
 Solicitações diretas de promoção demonstram **falta de postura profissional** e **desrespeito ao processo interno**, podendo resultar em **advertência** ou **sanções disciplinares**.
 
-<figure><img src="../.gitbook/assets/2_btl.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp" alt="" width="354"><figcaption></figcaption></figure>

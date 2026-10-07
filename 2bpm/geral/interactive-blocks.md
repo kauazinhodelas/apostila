@@ -17,4 +17,4 @@ Ela também facilita uma **comunicação clara e objetiva**, evita conflitos int
 
 Sem o respeito à hierarquia, o funcionamento do batalhão se tornaria **desorganizado**, comprometendo tanto a operação quanto a integridade dos agentes envolvidos.
 
-<figure><img src="../.gitbook/assets/2_btl.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp" alt="" width="354"><figcaption></figcaption></figure>

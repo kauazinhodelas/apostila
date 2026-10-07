@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/2_btl.png
+cover: .gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp
 coverY: 0
 coverHeight: 278
 layout:
@@ -33,3 +33,4 @@ layout:
 
 **O presente manual tem por finalidade padronizar e orientar as atividades operacionais dos policiais integrantes do 1º Batalhão Policial de Meta City.**\
 Para esclarecimentos adicionais, os interessados deverão contatar a supervisão responsável.
+

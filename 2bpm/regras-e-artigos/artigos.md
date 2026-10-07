@@ -5,9 +5,9 @@ icon: scale-balanced
 
 # Artigos
 
+{% file src="../.gitbook/assets/Código Penal Militar META (1).pdf" %}
 
-
-<div data-full-width="true"><figure><img src="../.gitbook/assets/2_btl.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp" alt="" width="354"><figcaption></figcaption></figure></div>
 
 
 

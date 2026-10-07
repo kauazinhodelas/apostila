@@ -48,4 +48,4 @@ O **padrão de modulação**, bem como os **significados e aplicações prática
 | **Características** | <p>"Homem, branco, tatuado, cabelo vermelho, camisa azul e calça preta"<br>"Carro tal, cor branca"</p>               |
 | **Pedir ajuda**     | <p>"Preciso de QRR aqui no QTH..."<br>"Preciso de QRR para iniciar abordagem, QTH na rede."</p>                      |
 
-<figure><img src="../.gitbook/assets/2_btl.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp" alt="" width="354"><figcaption></figcaption></figure>
