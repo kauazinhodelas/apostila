@@ -33,7 +33,7 @@ Todos os recrutas que pensam em fazer parte da corporação devem estudar o cont
 **Apresentação**
 
 Ao chegar, para se apresentar deverá falar:\
-&#xNAN;**“Recruta ‘Fulano’ se apresentando para o recrutamento do 2º Batalhão Policial da Meta City.”**\
+**“Recruta ‘Fulano’ se apresentando para o recrutamento do 2º Batalhão Policial da Meta City.”**\
 Lembrando que você será avaliado pelos recrutadores desde o início até o fim do processo.
 
 ***
@@ -83,4 +83,4 @@ A Polícia segue um conceito que orienta como a força deve ser usada de forma g
 | **Agressão Não Letal (Nível 5)**  | Uso do taser                                                 |
 | **Agressão Letal (Nível 6)**      | Uso de armas de fogo caso tenha uma ameaça armada            |
 
-<figure><img src=".gitbook/assets/2_btl.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp" alt="" width="354"><figcaption></figcaption></figure>

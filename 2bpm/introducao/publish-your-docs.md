@@ -10,8 +10,8 @@ icon: hexagon-exclamation
 TOPICO 1
 
 \
-Fazer perguntas simples:\
--Ja serviu a policia antes ? porque quer entrar no nosso batalhão?\
+Fazer perguntas simples:&#x20;\
+&#x20;-Ja serviu a policia antes ? porque quer entrar no nosso batalhão?\
 -Quais seus objetivos dentro da nossa dp?\
 Em seguida:\
 -Mande o cidadão pula as barreiras enquanto responde todo questionário.\
@@ -61,16 +61,16 @@ ABAIXO:
 **MODULAÇÃO BASE**
 
 **Iniciando código 0:**\
-&#xNAN;_"QAP Central, SPEED 01 iniciando código 0 qualquer QRR ou QRU é só jogar na rede QSL?"_
+_"QAP Central, SPEED 01 iniciando código 0 qualquer QRR ou QRU é só jogar na rede QSL?"_
 
 **Solicitando QRR:**\
-&#xNAN;_"QAP central, solicito QRR no QTH da praça, muitos indivíduos atirando contra a guarnição QSL?"_
+_"QAP central, solicito QRR no QTH da praça, muitos indivíduos atirando contra a guarnição QSL?"_
 
 **A caminho de um QRR:**\
-&#xNAN;_"QAP central, SPEED 01 a QTI do QTH onde foi solicitado o QRR"_
+_"QAP central, SPEED 01 a QTI do QTH onde foi solicitado o QRR"_
 
 **Iniciando acompanhamento:**\
-&#xNAN;_"QAP Central, SPEED 01 iniciando acompanhamento a um veículo (modelo/cor) no QTH do vermelho à QTI da praça, solicito uma secundária QSL?"_
+_"QAP Central, SPEED 01 iniciando acompanhamento a um veículo (modelo/cor) no QTH do vermelho à QTI da praça, solicito uma secundária QSL?"_
 
 
 
@@ -250,4 +250,4 @@ Pessoas com as mãos levantadas não podem ser mortas e não devem reagir ou pux
 * Dominas
 * Outros eventos comunitários
 
-<figure><img src="../.gitbook/assets/2_btl.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp" alt="" width="354"><figcaption></figcaption></figure>

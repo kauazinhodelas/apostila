@@ -6,8 +6,7 @@ icon: taxi
 # Viaturas
 
 **Viatura Liberada apenas para GTM**\
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 

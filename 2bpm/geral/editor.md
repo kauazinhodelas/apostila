@@ -36,5 +36,5 @@ icon: user-police-tie
 * É **terminantemente proibido permanecer em serviço com “ponto fantasma”**.\
   Se o jogo **crashar**, o ponto **deve ser batido novamente** ao retornar.
 
-<div align="center"><figure><img src="../.gitbook/assets/2_btl.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp" alt="" width="354"><figcaption></figcaption></figure></div>
 

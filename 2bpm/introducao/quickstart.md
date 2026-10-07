@@ -50,4 +50,4 @@ icon: book-blank
   Conclusao:  \
   A boa conduta policial garante o respeito da sociedade e fortalece a hierarquia e a disciplina dentro da corporacao.
 
-<figure><img src="../.gitbook/assets/2_btl.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5392c631eb7e74e03b03efddbff86f87.webp" alt="" width="354"><figcaption></figcaption></figure>
